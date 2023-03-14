@@ -10,3 +10,6 @@ Podaj predkosc startowa:1000 <br>
 Kostka 2: <br>
 Dlugosc boku:5 <br>
 Podaje pozycje:10 <br>
+
+Zdecydowanie nie jest to arcydzieło programistyczne, ale wstawiłem ten projekt taki jaki
+zastałem.
