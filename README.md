@@ -1,7 +1,7 @@
 # Licznik_Pi
 Jeden z moich pierwszych projekcików, liczy liczbę PI na podstawie symulacji zderzeń klocków. Przykładowe dane:
 
-Podaj liczba cyfr:5
+Podaj liczba cyfr:5 <br>
  Inicjalizacja:
 Kostka 1:
 Podaj dlugosc boku:10
